@@ -1,2 +1,2 @@
-"arquivo a.txt" 
-rodape
+"file a.txt" 
+rodape usuario 2
