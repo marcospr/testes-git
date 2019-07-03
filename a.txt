@@ -1,2 +1,2 @@
 "file a.txt" 
-rodape usuario 2
+copyright
